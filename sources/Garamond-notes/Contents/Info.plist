@@ -27,10 +27,10 @@
 		<key>IATemplateHeaderHeight</key>
 		<integer>84</integer>
 		<key>IATemplateDescription</key>
-		<string>EB Garamond template for note-taking, emphasising readability.</string>
+		<string>EBGaramond template for note-taking, emphasising readability.</string>
 		<key>IATemplateAuthor</key>
 		<string>corei8</string>
 		<key>IATemplateAuthorURL</key>
-		<string></string>
+		<string>https://github.com/corei8</string>
 	</dict>
 </plist>
