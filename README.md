@@ -10,9 +10,9 @@ Contributions are more than welcome! Please make a seperate folder for your temp
 
 ## Templates
 
-| Name           | Description                                       | Status      | Author  | Date     |
-| :------------- | :------------------------------------------------ | :---------- | :------ | :------- |
-| Garamond Notes | EG Garamond for good-looking, easy to read notes. | in progress | @corei8 | 07-18-21 |
+| Name           | Description                                           | Status    | Author  | Date     |
+| :------------- | :---------------------------------------------------- | :-------- | :------ | :------- |
+| Garamond Notes | EBGaramond font for good-looking, easy to read notes. | available | @corei8 | 07-18-21 |
 
 ## Support
 
