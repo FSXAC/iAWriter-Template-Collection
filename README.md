@@ -1,4 +1,4 @@
-# iAWriter Template Collection
+# iA Writer Template Collection
 
 This respository exists to solve an issue which iA Writer seems to have: _a lack of a comprehensive template library._
 
@@ -10,6 +10,10 @@ Contributions are more than welcome! Please make a seperate folder for your temp
 
 ## Templates
 
-| Name | Description | Author | Date |
-| :--- | :---------- | :----- | :--- |
-|      |             |        |      |
+| Name           | Description                                       | Status      | Author  | Date     |
+| :------------- | :------------------------------------------------ | :---------- | :------ | :------- |
+| Garamond Notes | EG Garamond for good-looking, easy to read notes. | in progress | @corei8 | 07-18-21 |
+
+## Support
+
+![donate](/images/IMG_0177.jpg)
