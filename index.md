@@ -18,6 +18,18 @@ Unfortunately I do not anticipate ordering the templates in any way shape or for
 | [iA Letter](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/letter.iatemplate.zip)                           | Makes a letter with correctly formatted fields                                                              | [ulfschneider](https://github.com/ulfschneider/ia-letter)            | [MIT](https://opensource.org/licenses/MIT)                                                 |
 | [Github Plus](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Github-Plus.iatemplate.zip)                    | A custom Github flavored iA Writer template with math, graph, and amazing code syntax highlighting support. | [icearith](https://github.com/icearith)                              | [GPL-3.0](https://github.com/icearith/iA-Writer-Templates-Github-Plus/blob/master/LICENSE) |
 
+## Screenshots
+
+[Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip) by [corei8](https://github.com/corei8/iAWriter-Template-Collection)
+
+[![Garamond Notes](/images/screenshots/garamondnotes.png)](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip)
+
+---
+
+[Tufte](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Tufte.iatemplate.zip) by [duzyn](https://github.com/duzyn/iA-Writer-Template-Tufte)
+
+[![Tufte](/images/screenshots/tufte.png)](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Tufte.iatemplate.zip)
+
 ## Support
 
 ![donate](/images/IMG_0177.jpg)
