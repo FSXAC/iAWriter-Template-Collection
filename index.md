@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Templates for iA Writer
 
-You can use the [editor on GitHub](https://github.com/corei8/iAWriter-Template-Collection/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is the beginning of a collection of templates for iA Writer. Our goal is to collect as many templates as we can, license depending, and also make our own. iA Writer does not appear to have a library of templates -- and even the three that you can find on their sight, though good, are nothing special. Hopefully, all the writers out there who are held back by this lack of rendering possibilities will be helped by this collection.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contributing
 
-### Markdown
+Contributions are very [simple](https://github.com/corei8/iAWriter-Template-Collection#contributing) and are most welcome! Pleae see the official [template page](https://github.com/iainc/iA-Writer-Templates) for more information. I hope to have my own guide soon, but that may take some time to make well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Templates
 
-```markdown
-Syntax highlighted code block
+Unfortunately I do not anticipate ordering the templates in any way shape or form in the near or even distant future. Please bring it up in the [issues](https://github.com/corei8/iAWriter-Template-Collection/issues) if you really want an order.
 
-# Header 1
-## Header 2
-### Header 3
+| Name                                                                                                                                   | Description                                           | Author                                                               | License                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------------------------- | :----------------------------------------- |
+| [Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip)              | EBGaramond font for good-looking, easy to read notes. | [corei8](https://github.com/corei8/iAWriter-Template-Collection)     | None                                       |
+| [github-math](https://github.com/corei8/iAWriter-Template-Collection/blob/main/templates/github-math-iatemplate-master.iatemplate.zip) | Github themed template designed for math.             | [jhermsmeier](https://github.com/jhermsmeier/github-math-iatemplate) | [MIT](https://opensource.org/licenses/MIT) |
 
-- Bulleted
-- List
+## Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corei8/iAWriter-Template-Collection/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![donate](/images/IMG_0177.jpg)
