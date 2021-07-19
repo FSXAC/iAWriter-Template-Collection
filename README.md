@@ -10,9 +10,9 @@ Contributions are more than welcome! Please make a seperate folder for your temp
 
 ## Templates
 
-| Name           | Description                                           | Status    | Author  | Date     |
-| :------------- | :---------------------------------------------------- | :-------- | :------ | :------- |
-| [Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip) | EBGaramond font for good-looking, easy to read notes. | available | @corei8 | 07-18-21 |
+| Name           | Description                                           | Author  |
+| :------------- | :---------------------------------------------------- | :------ |
+| [Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip) | EBGaramond font for good-looking, easy to read notes. | [corei8](https://github.com/corei8/iAWriter-Template-Collection) |
 
 ## Support
 
