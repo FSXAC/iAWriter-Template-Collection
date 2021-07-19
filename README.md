@@ -13,7 +13,7 @@ Contributions are more than welcome! Please make a seperate folder for your temp
 | Name                                                                                                                      | Description                                           | Author                                                           | License |
 | :------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------- | :--------------------------------------------------------------- | :------ |
 | [Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip) | EBGaramond font for good-looking, easy to read notes. | [corei8](https://github.com/corei8/iAWriter-Template-Collection) | None    |
-| [github-math-iatemplate-master.iatemplate]()                                                                              | Github themed template designed for math.             | [jhermsmeier]()                                                  | MIT     |
+| [github-math](https://github.com/corei8/iAWriter-Template-Collection/blob/main/templates/github-math-iatemplate-master.iatemplate.zip)                                                                              | Github themed template designed for math.             | [jhermsmeier](https://github.com/jhermsmeier/github-math-iatemplate)                                                  | MIT     |
 
 ## Support
 
