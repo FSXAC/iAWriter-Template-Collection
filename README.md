@@ -1,8 +1,10 @@
 # iA Writer Template Collection
 
-This respository exists to solve an issue which iA Writer seems to have: _a lack of a comprehensive template library._ Download the templates you want using the links in the table below. You will get a zip file; unzip it and double-click to install it in iA Writer.
+This respository exists to solve an issue which iA Writer seems to have: _a lack of a comprehensive template library._
 
-We will have more information on [Github Pages](https://corei8.github.io/iAWriter-Template-Collection/) in the near future.
+Download the templates you want using the links in the table below. You will get a zip file; unzip it and double-click to install it in iA Writer.
+
+We will have more information on [Github Pages](https://corei8.github.io/iAWriter-Template-Collection/) in the near future; right now we are just working on getting as many templates up as possible.
 
 ## Contributing
 
