@@ -12,7 +12,7 @@ Unfortunately I do not anticipate ordering the templates in any way shape or for
 
 | Name                                                                                                                                   | Description                                           | Author                                                               | License                                    |
 | :------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------------------------- | :----------------------------------------- |
-| [Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip)              | EBGaramond font for good-looking, easy to read notes. | [corei8](https://github.com/corei8/iAWriter-Template-Collection)     | None                                       |
+| [Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip)              | EBGaramond font for good-looking, easy to read notes. | [corei8](https://github.com/corei8/iAWriter-Template-Collection)     | [MIT](https://opensource.org/licenses/MIT) |
 | [github-math](https://github.com/corei8/iAWriter-Template-Collection/blob/main/templates/github-math-iatemplate-master.iatemplate.zip) | Github themed template designed for math.             | [jhermsmeier](https://github.com/jhermsmeier/github-math-iatemplate) | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Support
