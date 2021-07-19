@@ -17,6 +17,7 @@ Contributions are more than welcome! Please make a seperate folder for your temp
 | [Garamond Notes](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Garamond-notes.iatemplate.zip)              | EBGaramond font for good-looking, easy to read notes.                                           | [corei8](https://github.com/corei8/iAWriter-Template-Collection)     | [MIT](https://opensource.org/licenses/MIT) |
 | [github-math](https://github.com/corei8/iAWriter-Template-Collection/blob/main/templates/github-math-iatemplate-master.iatemplate.zip) | Github themed template designed for math.                                                       | [jhermsmeier](https://github.com/jhermsmeier/github-math-iatemplate) | [MIT](https://opensource.org/licenses/MIT) |
 | [Tufte](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/Tufte.iatemplate.zip)                                | Tufte CSS; ET Book web fonts; Noto Serif SC; Chinese web fonts with 400, 700 weight; Night mode | [duzyn](https://github.com/duzyn/iA-Writer-Template-Tufte)           | [MIT](https://opensource.org/licenses/MIT) |
+| [iA Letter](https://github.com/corei8/iAWriter-Template-Collection/raw/main/templates/letter.iatemplate.zip)                           | Makes a letter with correctly formatted fields                                                  | [ulfschneider](https://github.com/ulfschneider/ia-letter)            | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Screenshots
 
