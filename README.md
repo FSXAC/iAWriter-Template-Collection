@@ -22,7 +22,7 @@ Contributions are more than welcome! Please make a seperate folder for your temp
 
 ## Screenshots
 
-Coming soon!
+Coming soon to [Github Pages](https://corei8.github.io/iAWriter-Template-Collection/)!
 
 ## Support
 
