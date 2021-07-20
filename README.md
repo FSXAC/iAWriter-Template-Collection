@@ -6,10 +6,6 @@ Download the templates you want using the links in the table below. You will get
 
 We will have more information on [Github Pages](https://corei8.github.io/iAWriter-Template-Collection/) in the near future; right now we are just working on getting as many templates up as possible.
 
-## Contributing
-
-Contributions are more than welcome! Please make a seperate folder for your template source files and add your template to the `templates` directory. Your template must be bundled as a .aitemplate bundle and should be zipped, so that downloads are easier to manage.
-
 ## Templates
 
 | Name                                                                                                                                   | Description                                                                                                 | Author                                                               | License                                                                                    |
@@ -22,7 +18,23 @@ Contributions are more than welcome! Please make a seperate folder for your temp
 
 ## Screenshots
 
-Coming soon to [Github Pages](https://corei8.github.io/iAWriter-Template-Collection/)!
+Please see [Github Pages](https://corei8.github.io/iAWriter-Template-Collection/)!
+
+## Contributing
+
+Contributions are more than welcome! Please make a separate folder for your template source files and add your template to the `templates` directory. Your template must be bundled as a .iatemplate bundle and should be zipped, so that downloads are easier to manage.
+
+### How do I make a .iatemplate bundle?
+
+This is something I had no idea how to build when started this project. Turns out it is super easy on Mac, and I am sure that the process is similar on Windows (please correct me if I am wrong). You have to make sure that your file structure is the same as the template you used as a base (assuming that your template is a modification of someone elses) or else it has to meet the criterion indicated on the [official template-building page](https://github.com/iainc/iA-Writer-Templates). Change the name of the folder containing the `Contents` folder, or your project root folder, by adding `.iatemplate`. You have just created a bundle. Now turn it into a zip file and upload it to this repository.
+
+### Shoud I make a license for my template?
+
+Yes. I recommend that you host the template in your own repository, where it can be fixed ir updated if need be, and use the MIT license.
+
+### Do I need to supply a screenshot?
+
+Not necessarily. I will prepare screenshots for every template that does not come with one. If the image is not of good quality or is otherwise lacking, I will make a screenshot myself.
 
 ## Support
 
