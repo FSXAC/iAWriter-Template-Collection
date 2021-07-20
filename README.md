@@ -38,4 +38,4 @@ Not necessarily. I will prepare screenshots for every template that does not com
 
 ## Support
 
-![donate](/images/IMG_0177.jpg)
+![donate](/images/supportcreatorSMALL.jpg)
