@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap');
+
+html {
+    background-color: white;
+    color: #222; 
+    /* In a perfect world... */
+    /* background-image: 
+        linear-gradient(0deg, transparent 5em, rgba(255,0,0,.2) 0, transparent 5.1em), 
+        linear-gradient(rgba(0,0,255,.3) 1px, transparent 0);
+    background-size: 100% 32.3px !important; */
+}
+html.night-mode { background-color: #111; color: #ccc; }
+
+body {
+    /* padding-left: 8px; */
+    /* padding-right: 1em; */
+    /* padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 0 1.5em;
+    font-size: 22px;
+    /* font-family: MHDiary, cursive; */
+    font-family: 'Waiting for the Sunrise';
+    max-width: 800px;
+    margin: auto;
+    /* margin-left: 10%;
+    border-left: 1px solid rgba(255, 0, 0, 0.3); */
+    line-height: 1.15;
+}
+
+body p {
+    margin-bottom: 1.15em;
+    margin-top: 1.15em;
+}
+
+h1 { margin-top: 18px; margin-bottom: 46px; }
+h2 { margin-top: 28px; margin-bottom: 53px; }
+h3 { margin-top: 29px; margin-bottom: 0; }
+h4 { margin-top: 33px; margin-bottom: 0; }
+
+p code, mark {
+    font-family: inherit;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 4px;
+}
+
+mark { background-color: rgba(250, 230, 30, 0.8); }
+
+blockquote {
+    background-color: #fcfcc8;
+    color: #335;
+    padding: 0.5em;
+    max-width: 400px;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+    display: inline-block;
+    transform: rotate(-2deg);
+}
+
+pre {
+    font-size: 14px;
+    padding: 1rem;
+    overflow: auto;
+    background-color: #ffdede;
+    color: #222;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+    margin: 1em auto;
+}
+
+span.math {
+    font-size: 60%;
+}
+
+a {
+    color: #4183C4;
+    
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+figcaption {
+    margin-top: 4px;
+    font-style: italic;
+}
+
+hr {
+    border-color: #222;
+    margin-top: 2em;
+    margin-bottom: 2.5em;
+}
+
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -1.8em;
+    margin-right: 8px;
+}
+
+#main table {
+    margin: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    overflow: auto;
+    break-inside: auto;
+    padding: 0;
+}
+#main table tr {
+    margin: 0;
+    padding: 0;
+}
+#main table tr th {
+    font-weight: bold;
+    border-bottom: 2px solid #888;
+    text-align: left;
+    margin: 0;
+    padding: 2px 8px;
+}
+#main table tr td {
+    margin: 0;
+    padding: 2px 8px;
+}
+#main table tr th :first-child, table tr td :first-child {
+    margin: 0;
+}
+#main table tr th :last-child, table tr td :last-child {
+    margin: 0;
+}
+#main table caption {
+    margin-bottom: 4px;
+}
+.night-mode #main table tr { background: none; }
+.night-mode #main table tr:nth-child(2n) { background: none; }
+.night-mode #main table tr td, .night-mode #main table tr th { border: 1px solid #333; }
+
+iframe { 
+    display: block;
+    margin: 1em auto;
+}
+
+@media print {
+    html {
+        text-justify: inter-word;
+        background: transparent !important;
+    }
+
+    body {
+        margin-left: 1in;
+        margin-right: 1in;
+        margin-top: 0;
+        padding: 0;
+        font-size: 24px;
+    }
+
+    pre { overflow-wrap: break-word; }
+    iframe { display: none; }
+}
